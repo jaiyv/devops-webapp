@@ -2,3 +2,6 @@
 "devkey.pub" 
 "devkey.pub" 
 "devkey.pem" 
+devkey.pem
+devkey.pub
+terraform/
